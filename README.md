@@ -2,8 +2,6 @@
 
 CodeCracker is a web application that allows users to analyze their coding profiles from various competitive programming platforms including LeetCode, CodeChef, and CodeForces. It provides detailed statistics about problems solved and language distribution in an interactive and visually appealing way.
 
-![CodeCracker Interface](https://github.com/DANDIPATI-DURGA-PRAVEEN/CodeCracker/raw/master/frontend/public/screenshot.png)
-
 ## Features
 
 - **Multi-Platform Support**: Analyze profiles from:
@@ -97,10 +95,6 @@ CodeCracker is a web application that allows users to analyze their coding profi
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
 
